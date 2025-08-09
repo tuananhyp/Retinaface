@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+import "ml_face.proto";
+
+package oclea;
+
+message MtcnnFaces {
+    repeated MlFace faces = 1;
+}

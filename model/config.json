@@ -1,0 +1,8 @@
+{
+   "face_similarity_threshold":0.6,
+   "face_width_threshold":0.01,
+   "positive_recognition_num":2,
+   "debug_log_file":"",
+   "face_recognition_mode":1,
+   "recognition_plugin":"/usr/lib/ml-models/libmlmobilefacenet.so"
+}
